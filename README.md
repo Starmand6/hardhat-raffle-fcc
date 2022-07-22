@@ -1,1 +1,1 @@
-Contract written using the FreeCodeCamp 32-hour YouTube course with Patrick Collins.
+Contract written by following the FreeCodeCamp 32-hour YouTube course/tutorial with Patrick Collins.
